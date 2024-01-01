@@ -46,15 +46,13 @@ for i in range(n):
     print("X%d = %0.2f" %(i,x[i]),end=" ")
 */
 ```
-*/
-```
+
 
 ## Output:
 
 
 
-![Screenshot 2024-01-01 094230](https://github.com/SubhashriRavichandran10/Gaussian/assets/145743413/ca3376b6-f385-4bb2-943c-3a372bc71a84)
-
+![Screenshot 2024-01-01 094230](https://github.com/SubhashriRavichandran10/Gaussian/assets/145743413/8109aefc-61ee-4cd7-8286-fe56259ea147)
 
 
 
